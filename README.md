@@ -31,13 +31,24 @@ Para o funcionamento correto, mantenha a pasta de instâncias no diretório pai 
 ### Execução
 
 Para testar o **Insertion Sort**, acesse a pasta src/ e execute:
+
 ```bash
-python insertion_sort.py
-```
+python insertion_sort  
+``` 
+ou
+
+```bash
+python .\insertion_sort  
+``` 
 
 Para testar o **Selection Sort**, acesse a pasta src/ e execute:
+
 ```bash
 python selection_sort.py
+```
+
+```bash
+python .\selection_sort.py
 ```
 
 ### Funcionalidades do Script
