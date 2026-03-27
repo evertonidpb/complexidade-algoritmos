@@ -47,6 +47,8 @@ Para testar o **Selection Sort**, acesse a pasta src/ e execute:
 python selection_sort.py
 ```
 
+ou
+
 ```bash
 python .\selection_sort.py
 ```
