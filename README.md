@@ -26,18 +26,19 @@ Para o funcionamento correto, mantenha a pasta de instâncias no diretório pai 
   └── src/
       ├── insertion_sort.py
       └── selection_sort.py
+```
 
 ### Execução
 
 Para testar o **Insertion Sort**, acesse a pasta src/ e execute:
 ```bash
 python insertion_sort.py
-
+```
 
 Para testar o **Selection Sort**, acesse a pasta src/ e execute:
 ```bash
 python selection_sort.py
-
+```
 
 ### Funcionalidades do Script
 Medição de Alta Precisão: Utiliza time.perf_counter() para capturar milissegundos com exatidão.
