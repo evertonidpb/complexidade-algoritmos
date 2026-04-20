@@ -1,0 +1,14 @@
+Relatorio de Execucao - Merge Sort
+--------------------------------------------------
+num.1000.1.in: 0.012781 segundos
+num.1000.2.in: 0.011886 segundos
+num.1000.3.in: 0.017020 segundos
+num.1000.4.in: 0.019616 segundos
+num.10000.1.in: 0.145417 segundos
+num.10000.2.in: 0.137912 segundos
+num.10000.3.in: 0.137931 segundos
+num.10000.4.in: 0.139059 segundos
+num.100000.1.in: 1.139521 segundos
+num.100000.2.in: 1.354618 segundos
+num.100000.3.in: 1.405849 segundos
+num.100000.4.in: 1.055964 segundos
